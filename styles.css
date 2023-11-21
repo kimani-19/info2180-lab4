@@ -1,0 +1,77 @@
+#container{
+	display:flex;
+	align-items:center;
+	justify-content:center;
+	flex-direction:column;
+	color:grey;
+	background-color:#000;
+	height:100vh;
+	max-width:500px;
+	font-size:21px;
+
+
+	
+}
+#container #result #text{
+    margin: 10px;
+    font-size: 20px;
+    padding:5px;
+    color: white;
+    border-top: 1px black solid;
+}
+#container #result #text{
+		padding:10em;
+
+}
+
+
+#container #result{
+    margin: 10px;
+    font-size: 20px;
+    padding:5px;
+    color: white;
+    border-top: 1px black solid;
+}
+body{
+	margin: 0;
+    font-size: 18px;
+    font-family: -apple-system,BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "NotoSans", sans-serif;
+    background-color: white;
+    letter-spacing: 1.5px;
+	
+}
+h1{
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: white;
+    font-size: 25x;
+}
+
+
+
+#searchBox{
+	border:none;
+	border-radius:3px;
+	border:1px solid gray;
+	background:none;
+	color:#fff;
+	padding:.6em 1em;
+
+
+}
+
+
+
+button{
+	height: 50px;
+    width: 100px;
+    background-color: rgb(250, 90, 90);
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+form{
+margin:1em 0;
+}
